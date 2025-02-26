@@ -8,24 +8,24 @@
 - 👨🏽‍💻 I’m currently working at <a href="https://www.selenium.ao/">**@Selenium SA**</a>
 - 🎓 I’m currently studying Computer Engineering at <em>Catholic University of Angola</em>
 - 🎯 I’m currently learning <em>Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD</em>
-- 💬 Feel free to ask me about <em>Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot</em>
+- 💬 Feel free to ask me about <em>Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot, UiPath, Bloomberg API</em>
 - 📧 Feel free to contact me: **developer.lucas24@gmail.com**
 
 <h4>I have experience in:</h4>
 
 - Java EE development with Spring Framework, JPA, Hibernate, Maven, Gradle;
-- REST APIs development (Spring, Express);
-- Node.js development with Express, Mongoose, Typescript;
-- Unit and Integrated test development with JUnit, Mockito, Jest;
-- HTML, CSS, JavaScript, Thymeleaf, Markdown;
-- MySQL, PostgreSQL, MongoDB database development;
-- Report development with Apache POI, Poiji, JasperReport;
+- REST APIs development;
+- Unit test development with JUnit, Mockito;
+- HTML, CSS, JavaScript, Thymeleaf;
+- MySQL, PostgreSQL, SQL Server, MongoDB database development;
+- Report development with Apache POI, Poiji, JasperReport, Apache Commons CSV;
 - Documentation using Swagger UI;
-- Agile, Scrum Methodology
-- Git, GitHub;
-- Linux, Docker;
-- Microservices, Reactive Programming and Clean Architecture Learner 🎯
-
+- Logging with SLF4J, LogF4J;
+- Git, Azure DevOps, GitHub;
+- Azure Document Intelligence;
+- Agile, Scrum Methodology;
+- UiPath, Power Automate;
+Microservices and Clean Architecture Learner 🎯
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 
