@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div style="display: flex; flex-direction: column;">
     <h1>Hi 👋🏼, I'm Lucas Almeida</h1>
-    <h4 style="max-width: 512px;">Results-oriented Developer with more than 2 years of experience in backend development, comfortable team work or self-directed environment, strong problem solving and verbal and write communication skills, switching comfortable between architecture.</h3>
+    <h4 style="max-width: 512px;">Results-oriented Developer with more than 4 years of experience in backend development, comfortable team work or self-directed environment, strong problem solving and verbal and write communication skills, switching comfortable between architecture.</h3>
 </div>
 
 - 👨🏽‍💻 I’m currently working at <a href="https://www.selenium.ao/">**@Selenium SA**</a>
@@ -25,6 +25,7 @@
 - Azure Document Intelligence;
 - Agile, Scrum Methodology;
 - UiPath, Power Automate;
+- Bloomberg API (BLPAPI)
 Microservices and Clean Architecture Learner 🎯
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
