@@ -5,7 +5,7 @@
     <h4 style="max-width: 512px;">Results-oriented Developer with more than 2 years of experience in backend development, comfortable team work or self-directed environment, strong problem solving and verbal and write communication skills, switching comfortable between architecture.</h3>
 </div>
 
-- 👨🏽‍💻 I’m currently working at <a href="https://espaes.com/">**@Espaes Group**</a>
+- 👨🏽‍💻 I’m currently working at <a href="https://www.selenium.ao/">**@Selenium SA**</a>
 - 🎓 I’m currently studying Computer Engineering at <em>Catholic University of Angola</em>
 - 🎯 I’m currently learning <em>Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD</em>
 - 💬 Feel free to ask me about <em>Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot</em>
