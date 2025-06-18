@@ -13,17 +13,15 @@
 
 <h4>I have experience in:</h4>
 
-- Java EE development with Spring Framework, JPA, Hibernate, Maven, Gradle;
+- Java development with Spring Framework, JPA, Hibernate, Maven, Gradle;
 - REST APIs development;
 - Unit test development with JUnit, Mockito;
-- HTML, CSS, JavaScript, Thymeleaf;
 - MySQL, PostgreSQL, SQL Server, MongoDB database development;
 - Report development with Apache POI, Poiji, JasperReport, Apache Commons CSV;
 - Documentation using Swagger UI;
 - Logging with SLF4J, LogF4J;
 - Git, Azure DevOps, GitHub;
 - Azure Document Intelligence;
-- Agile, Scrum Methodology;
 - UiPath, Power Automate;
 - Bloomberg API (BLPAPI)
   
