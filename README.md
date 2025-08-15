@@ -25,7 +25,7 @@
 - UiPath, Power Automate;
 - Bloomberg API (BLPAPI)
   
-Microservices and Clean Architecture Learner 🎯
+Actively learning 🎯
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 
