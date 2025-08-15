@@ -7,8 +7,8 @@
 
 - 👨🏽‍💻 I’m currently working at <a href="https://www.selenium.ao/">**@Selenium SA**</a>
 - 🎓 I’m currently studying Computer Engineering at <em>Catholic University of Angola</em>
-- 🎯 I’m currently learning <em>Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD</em>
-- 💬 Feel free to ask me about <em>Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot, UiPath, Bloomberg API</em>
+- 🎯 I’m currently learning <em>N8n, Software Architecture, Rust, Kotlin</em>
+- 💬 Feel free to ask me about <em>Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot, UiPath, Bloomberg API, BPIPE</em>
 - 📧 Feel free to contact me: **developer.lucas24@gmail.com**
 
 <h4>I have experience in:</h4>
